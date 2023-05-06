@@ -196,28 +196,28 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Fpereiraaraujo/ConectaOngs",
   },
   {
-    name: "Trip Guide",
+    name: "UberClone",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Um Clone do aplicativo uber completo tanto o lado do usuario quanto o lado do motorista",
     tags: [
       {
-        name: "nextjs",
+        name: "React-native",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Aws-amplify",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "GraphQl",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Fpereiraaraujo/Uber-Clone",
   },
 ];
 
